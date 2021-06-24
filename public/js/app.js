@@ -1,4 +1,3 @@
-console.log("client side java script is loaded");
 // to fetch the data
 
 const weatherForm = document.querySelector("form");
